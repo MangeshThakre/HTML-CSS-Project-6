@@ -6,7 +6,7 @@
 🙌 hey There I'm mangesh Thakre Wed Developer 
 ##  What I've learnd form this project 
  
-  -Improved flex-box skill
+ - Improved flex-box skill
  - In this porjecj i'vd Learned to write css in html file (inline css)
 
 > #### This project took 3 hour to complete, 
